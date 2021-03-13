@@ -1,0 +1,16 @@
+.main-foorter {
+  align-items: center;
+  background-color: darkgrey;
+  bottom: 0px;
+  justify-content: right;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  width: 100%;
+  text-align: right;
+}
+
+.main-foorter strong {
+  text-align: right;
+  margin-right: 40%;
+}
